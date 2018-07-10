@@ -25,6 +25,9 @@ Run `npm start` to serve locally.
 - Heroku
 - Firebase
 
+## Firebase 
+[Link](https://bettership-9f962.firebaseapp.com)
+
 ## Backend Repo
 
 [Link](https://github.com/cchooley/CHOK-server)
